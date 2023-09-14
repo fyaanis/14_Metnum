@@ -1,2 +1,2 @@
 # 14_Matnum
-Repository untuk tugas metode numerik kelompok 10
+Repository untuk tugas metode numerik kelompok 14
