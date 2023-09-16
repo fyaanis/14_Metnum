@@ -1,2 +1,2 @@
-# 14_Matnum
+# 14_Metnum
 Repository untuk tugas metode numerik kelompok 14
